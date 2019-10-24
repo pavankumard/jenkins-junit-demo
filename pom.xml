@@ -10,6 +10,11 @@
   <name>junit-demo</name>
   <url>https://github.com/stask</url>
 
+ <properties>
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
+  </properties>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
